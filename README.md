@@ -6,3 +6,10 @@ Team player with great communication skills, high quality of work, motivated to 
 * Data analysis
 * Microsoft office 
 * Microsoft suite 2016
+
+## Education
+*August 2019-May 2023*
+
+Metro Tech High School
+* Unweighted GPA (3.6)
+* Weighted GPA (4.0)
